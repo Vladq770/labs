@@ -1,0 +1,105 @@
+﻿  Source1.cpp
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(17,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(19,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(19,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(19,21): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(20,21): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(21,21): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,19): error C2065: сохраняем: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,38): error C2065: в: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стек"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,41): error C2065: стек: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "а"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(22,50): error C2065: а: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(23,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "imul"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(23,9): error C2065: imul: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(23,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(23,14): error C2065: ebx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(23,19): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,23): error C2065: результат: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "вышел"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,42): error C2065: вышел: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,53): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "за"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,53): error C2065: за: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,58): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "пределы"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,58): error C2065: пределы: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,73): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "младшей"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,73): error C2065: младшей: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,88): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "части"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(24,88): error C2065: части: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(25,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(25,9): error C2065: add: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(25,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jz"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,9): error C2065: jz: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "error_zf1"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,12): error C2065: error_zf1: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,23): error C2065: ошибка: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,36): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "деление"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,36): error C2065: деление: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,51): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "на"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,51): error C2065: на: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ноль"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(26,56): error C2065: ноль: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,9): error C2065: push: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,14): error C2065: ecx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,19): error C2065: сохраняем: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,39): error C2065: в: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стек"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,42): error C2065: стек: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,51): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "с"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(27,51): error C2065: с: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(28,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "neg"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(28,9): error C2065: neg: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(28,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(28,18): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,19): error C2065: сохраняем: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,38): error C2065: в: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стек"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,41): error C2065: стек: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(29,51): warning C4552: "*": результат выражения не используется
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(30,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(30,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(30,18): error C2065: ecx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(30,24): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,14): error C2065: расширяем: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,33): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,33): error C2065: eax: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "до"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,37): error C2065: до: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,43): error C2065: edx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,46): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(31,46): error C2059: синтаксическая ошибка: :
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,18): error C2065: извлекаем: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "из"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,37): error C2065: из: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "стека"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,42): error C2065: стека: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,55): error C2065: ecx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(32,61): error C2059: синтаксическая ошибка: =
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(33,19): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(34,23): error C2065: ошибка: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(34,36): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "частное"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(34,36): error C2065: частное: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(34,51): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "велико"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(34,51): error C2065: велико: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(35,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(35,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(35,13): error C2065: ecx: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(35,18): error C2065: eax: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(35,23): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(36,23): error C2059: синтаксическая ошибка: <
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(37,25): error C2065: ошибка: необъявленный идентификатор
+C:\Users\Lenovo\source\repos\lb3\Project10\Source1.cpp(37,53): fatal error C1003: число ошибок превышает 100; остановка компиляции
