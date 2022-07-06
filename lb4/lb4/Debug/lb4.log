@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\lb4\lb4\Source.cpp(123,5): warning C4102: End: неиспользованная метка
+C:\Users\Lenovo\source\repos\lb4\lb4\Source.cpp(146,10): warning C4101: F: неиспользованная локальная переменная
+  lb4.vcxproj -> C:\Users\Lenovo\source\repos\lb4\Debug\lb4.exe
