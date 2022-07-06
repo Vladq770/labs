@@ -1,0 +1,5 @@
+﻿  Client5.cpp
+C:\Users\Lenovo\source\repos\Client5\Client5\Client5.cpp(19,14): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Client5\Client5\Client5.cpp(26,24): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Client5\Client5\Client5.cpp(52,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Client5.vcxproj -> C:\Users\Lenovo\source\repos\Client5\Debug\Client5.exe
