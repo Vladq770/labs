@@ -1,0 +1,4 @@
+﻿  Server5.cpp
+C:\Users\Lenovo\source\repos\Server5\Server5\Server5.cpp(28,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Lenovo\source\repos\Server5\Server5\Server5.cpp(137,12): warning C4101: newConnection: неиспользованная локальная переменная
+  Server5.vcxproj -> C:\Users\Lenovo\source\repos\Server5\Debug\Server5.exe
