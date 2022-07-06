@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(190,8): warning C4101: mes: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OS6.vcxproj -> C:\Users\Lenovo\source\repos\OS6\Release\OS6.exe

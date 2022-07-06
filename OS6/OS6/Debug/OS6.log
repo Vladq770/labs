@@ -1,0 +1,39 @@
+﻿  MyForm.cpp
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(118,19): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(119,11): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(125,9): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(725,35): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(208,22): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(212,26): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm1.cpp
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(118,19): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(119,11): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(125,9): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(575,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(581,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(619,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(625,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(663,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(669,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(725,35): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(729,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(208,22): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(212,26): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm2.cpp
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(118,19): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(119,11): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm2.h(125,9): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(575,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(581,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(619,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(625,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(663,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(669,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(725,35): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm1.h(729,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(208,22): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Lenovo\source\repos\OS6\OS6\MyForm.h(212,26): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  Создание кода...
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OS6.vcxproj -> C:\Users\Lenovo\source\repos\OS6\Debug\OS6.exe

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\OS6\OS6\Debug\OS6.vcxprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\OS6\OS6\Debug\OS6.MyForm.resources
+C:\Users\Lenovo\source\repos\OS6\OS6\Debug\OS6.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\OS6\OS6\Debug\OS6.MyForm1.resources
+C:\Users\Lenovo\source\repos\OS6\OS6\Debug\OS6.MyForm2.resources
